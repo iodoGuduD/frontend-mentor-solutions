@@ -1,14 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 :root {
     --white: hsl(0, 0%, 100%);
-    --lightgrey: hsl(212, 45%, 89%);
+    --lightgray: hsl(212, 45%, 89%);
     --grayblue: hsl(220, 15%, 55%);
     --darkblue: hsl(218, 44%, 22%);
 }
 
+/*mobile-first*/
 body {
-    background: var(--white);
+    background: var(--grayblue);
     text-align: center;
+}
+
+.box {
     width: 375px;
+    background: var(--white);
+}
+
+.texts {
+    font-family: 'Outfit';
+    text-align: center;
+}
+
+.texts h1 {
+    font-weight: 700;
+}
+
+.texts p {
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--lightgray);
 }
 
 .attribution {
@@ -18,4 +40,10 @@ body {
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+}
+/*desktop-second*/
+@media (1440px) {
+    .box {
+        width: auto;
+    }
 }
