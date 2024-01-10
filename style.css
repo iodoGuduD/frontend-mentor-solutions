@@ -7,20 +7,27 @@
     --darkblue: hsl(218, 44%, 22%);
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /*mobile-first*/
 body {
     background: var(--grayblue);
-    text-align: center;
 }
 
 .box {
     width: 375px;
     background: var(--white);
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
 }
 
 .texts {
     font-family: 'Outfit';
-    text-align: center;
 }
 
 .texts h1 {
@@ -41,9 +48,8 @@ body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
+
 /*desktop-second*/
-@media (1440px) {
-    .box {
-        width: auto;
-    }
+@media screen and (orientation: landscape) {
+    
 }
