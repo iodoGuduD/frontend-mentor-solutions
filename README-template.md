@@ -1,8 +1,8 @@
-# Frontend Mentor - QR code component solution
+# Uma solução para o desafio inicial do Frontend Mentor 
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Essa é uma solução para o [desafio do Frontend Mentor de componente QR code](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Table of contents
+## Lista de conteúdos
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
@@ -15,26 +15,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- Fazia muito tempo que eu estava estudando HTML e CSS, porém nunca conseguia encontrar uma maneira interessante e completa de treinar projetos nessas linguagens. Achei o Frontend Mentor e aqui estamos. Foi muito bom construir esse projeto, pois ele tinha um objetivo e um molde para ser criado.
+- Não queria estudar design para entender como montar uma estrutura de site bonita, intuitiva, funcional, etc. tudo que um UX precisa, porque não tenho tanto tempo para dividir na área de programação e UX.
+- Foi bom relembrar alguns conceitos e descobrir novas técnicas simples para resolução de problemas básicos que sempre são encontrados na vida de um desenvolvedor web.
+- Boa leitura e obrigado pela mesma!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução: [Frontend Mentor link](https://www.frontendmentor.io/solutions/responsive-qr-code-card-with-flex-and-block-SOO9xSBBVx)
+- Site: [Vercel link](https://qr-code-solution-iodogudud.vercel.app/)
 
 ## My process
 
