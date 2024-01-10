@@ -19,7 +19,7 @@ body {
 }
 
 .box {
-    width: 400px;
+    min-width: 300px;
     background: var(--white);
     text-align: center;
     margin: auto;
