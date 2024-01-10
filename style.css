@@ -13,9 +13,12 @@
     box-sizing: border-box;
 }
 
-/*mobile-first*/
 body {
     background: var(--grayblue);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .box {
@@ -55,9 +58,4 @@ body {
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
-}
-
-/*desktop-second*/
-@media screen and (orientation: landscape) {
-    
 }
